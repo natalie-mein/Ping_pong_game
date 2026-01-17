@@ -18,15 +18,15 @@ Key Features
 - Multi-player Support – Add a third player for some fun and chaos.<br>
 - Containerized Deployment – Fully managed with Docker Compose.<br>
 
-##Tech Stack
+## Tech Stack
 
-Frontend
+### Frontend
 
     React – Component-based UI
     TypeScript – Type-safe development
     Tailwind CSS – Utility-first styling
 
-Backend & Architecture
+### Backend & Architecture
 
     Node.js + Fastify – High-performance backend services
     TypeScript – Type-safe development
