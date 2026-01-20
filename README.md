@@ -9,7 +9,8 @@
 Ft_transcendence is a full-stack web application and multiplayer gaming platform built as part of the 42 curriculum.
 The project combines real-time gameplay, user management, and tournament features  with secure authentication.
 Players can compete in a classic Pong game against friends, or random opponents, and manage their profiles.
-Key Features
+
+## Key Features
 
 - Real-time Pong Gameplay – Play against another player.<br>
 - User Management – Registration, login, and profile customization.<br
