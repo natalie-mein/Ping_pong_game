@@ -69,3 +69,17 @@ Players can compete in a classic Pong game against friends, or random opponents,
     No unhandled runtime errors or warnings
     Fully containerized with Docker (single command setup)
 
+## Getting started
+### Prerequisites
+
+    Docker
+    Docker Compose
+    .env file (example found in the repository)
+
+### Running the project
+
+```make```
+
+See Makefile to inspect the commands like cleaning or running in detach mode.
+
+Open a browser with https://localhost:xxxx (port defined in your .env) and start exploring!
